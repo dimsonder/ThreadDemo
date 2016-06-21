@@ -2,4 +2,4 @@
 
 效果图如下：
 <br>
-![image](../demo/thread.gif)
+![image](demo/thread.gif)
